@@ -1,4 +1,4 @@
-# Voi Staking website
+# Voi NFT Launch Pad website
 
-Website for Voi Staking and interfacing with the smart contract.
+Website for NFT Launch Pad.
 
